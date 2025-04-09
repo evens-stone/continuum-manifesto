@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Continuum Architecture Manifesto
 
 > “An application is not an object. It is an act.”  
