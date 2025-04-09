@@ -1,13 +1,9 @@
 # Continuum Architecture Manifesto
 
-[Read the manifesto on GitHub Pages](https://evens-stone.github.io/continuum-manifesto/)
-
 > “An application is not an object. It is an act.”  
 >  
 > The Continuum Architecture redefines what an application truly is:  
 > the dynamic orchestration of a domain within a context to solve a real-world problem.
-
----
 
 ## About
 
@@ -17,17 +13,13 @@ It restores the central role of **context**, questions our assumptions about wha
 
 It is intended as a **vision**, a **framework of thought**, and a **philosophical foundation** for how we structure, build, and evolve our systems.
 
----
-
 ## Read the Manifesto
 
-[Read the full manifesto here](./MANIFESTO.md)
+[Read the full manifesto here](./manifesto.md)
 
 Available in:  
 - English (original version)  
-- [Français](./VERSIONS/continuum-manifesto-fr.md)
-
----
+- [Français](./manifeste.md)
 
 ## From Theory to Practice
 
@@ -40,8 +32,6 @@ If you’re working on your own interpretation or implementation, we encourage y
 > The manifesto is the foundation.  
 > The rest is yet to be built — together.
 
----
-
 ## Roadmap
 
 The initiative includes:
@@ -51,9 +41,7 @@ The initiative includes:
 - Real-world implementations
 - Community discussions
 
-See [`ROADMAP.md`](./ROADMAP.md)
-
----
+See [`ROADMAP`](./roadmap.md)
 
 ## Contribute
 
@@ -64,9 +52,7 @@ We welcome:
 - Use cases and implementations
 - Reflections and discussions
 
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-
----
+See [`CONTRIBUTING`](./contributing.md)
 
 ## License
 
@@ -74,9 +60,7 @@ This work is licensed under the
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 You are free to share and adapt it, even commercially, as long as attribution is given.  
-[See LICENSE.md](./LICENSE.md)
-
----
+[See LICENSE](./license.md)
 
 ## Acknowledgement
 

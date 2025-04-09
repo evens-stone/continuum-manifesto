@@ -487,11 +487,11 @@ Il s’agit de **voir avec plus de lucidité ce qui a toujours été là** :
 
 ## 8\. **Signature et licence**
 
-Ce manifeste a été rédigé par **Evens Pierre**,  
+Ce manifeste a été rédigé par **Mr Stone**,  
 créateur de **Stone.js**,  
 conçu à partir d’années de réflexion, de conception, et de pratique autour de l’architecture logicielle contextuelle.
 
-Il a été finalisé le **3 avril 2025**,  
+Il a été finalisé le **9 avril 2025**,  
 et publié sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 Cela signifie que :
@@ -506,5 +506,3 @@ Cela signifie que :
 
 **Pour toute question, retour, ou contribution :**  
 Vous pouvez explorer, discuter et expérimenter autour de la Continuum Architecture sur :
-
-> [https://stonejs.com](https://stonejs.com)
