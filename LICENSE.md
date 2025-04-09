@@ -26,8 +26,6 @@ https://creativecommons.org/licenses/by/4.0/
 **Human-readable summary:**  
 https://creativecommons.org/licenses/by/4.0/legalcode
 
----
-
 ## Attribution
 
 When reusing or citing this manifesto, please credit as follows:

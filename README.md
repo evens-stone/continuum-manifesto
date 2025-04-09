@@ -7,8 +7,6 @@
 > The Continuum Architecture redefines what an application truly is:  
 > the dynamic orchestration of a domain within a context to solve a real-world problem.
 
----
-
 ## About
 
 This repository contains the official **Continuum Architecture Manifesto**, a foundational text that proposes a new way of thinking about software architecture.
@@ -17,8 +15,6 @@ It restores the central role of **context**, questions our assumptions about wha
 
 It is intended as a **vision**, a **framework of thought**, and a **philosophical foundation** for how we structure, build, and evolve our systems.
 
----
-
 ## Read the Manifesto
 
 [Read the full manifesto here](./MANIFESTO.md)
@@ -26,8 +22,6 @@ It is intended as a **vision**, a **framework of thought**, and a **philosophica
 Available in:  
 - English (original version)  
 - [Français](./VERSIONS/continuum-manifesto-fr.md)
-
----
 
 ## From Theory to Practice
 
@@ -40,8 +34,6 @@ If you’re working on your own interpretation or implementation, we encourage y
 > The manifesto is the foundation.  
 > The rest is yet to be built — together.
 
----
-
 ## Roadmap
 
 The initiative includes:
@@ -52,8 +44,6 @@ The initiative includes:
 - Community discussions
 
 See [`ROADMAP.md`](./ROADMAP.md)
-
----
 
 ## Contribute
 
@@ -66,8 +56,6 @@ We welcome:
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 
----
-
 ## License
 
 This work is licensed under the  
@@ -75,8 +63,6 @@ This work is licensed under the
 
 You are free to share and adapt it, even commercially, as long as attribution is given.  
 [See LICENSE.md](./LICENSE.md)
-
----
 
 ## Acknowledgement
 
