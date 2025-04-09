@@ -1,0 +1,6 @@
+permalink: pretty
+markdown: kramdown
+color_scheme: light
+title: Continuum Architecture
+remote_theme: just-the-docs/just-the-docs
+description: A manifesto redefining the foundations of software architecture
