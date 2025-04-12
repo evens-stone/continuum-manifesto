@@ -1,6 +1,7 @@
 ---
 title: Manifesto (French)
 permalink: /fr/manifesto
+nav_order: 3
 ---
 
 # Manifeste de la Continuum Architecture

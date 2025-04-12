@@ -1,6 +1,7 @@
 ---
 title: Roadmap
 permalink: /roadmap
+nav_order: 6
 ---
 
 # Continuum Manifesto — Roadmap

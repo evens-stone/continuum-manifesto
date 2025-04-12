@@ -1,6 +1,7 @@
 ---
 title: Contributing
 permalink: /contributing
+nav_order: 5
 ---
 
 # Contributing to the Continuum Manifesto

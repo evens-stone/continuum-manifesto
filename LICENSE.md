@@ -1,6 +1,7 @@
 ---
 title: License
 permalink: /license
+nav_order: 4
 ---
 
 # License

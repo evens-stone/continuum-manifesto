@@ -1,6 +1,7 @@
 ---
 title: Manifesto
 permalink: /manifesto
+nav_order: 2
 ---
 
 # Manifesto of Continuum Architecture
