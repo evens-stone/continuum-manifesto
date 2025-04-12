@@ -6,7 +6,7 @@ nav_order: 1
 
 # Continuum Architecture Manifesto
 
-[Read the manifesto on GitHub Pages](https://evens-stone.github.io/continuum-manifesto/manifesto.html)
+[Read the manifesto on GitHub Pages](https://evens-stone.github.io/continuum-manifesto/manifesto)
 
 > “An application is not an object. It is an act.”  
 >  
